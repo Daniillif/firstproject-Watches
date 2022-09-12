@@ -74,7 +74,7 @@ body{
 .header-img-wrapper{
     display: block;
     width: 772px;
-    margin-top: -138px;
+    margin-top: -104px;
     margin-left: -90px;
 }
 .popular-titles{
@@ -92,7 +92,7 @@ body{
     margin-bottom: 84px;
 }
 .item-img-wrapper{
-    width: 1400px;
+    width: 417px;
     height: 630px;
     background-color:#F8F8F8;
     align-items: center;
@@ -122,7 +122,7 @@ body{
     margin: 0 auto;
     width: 417px;
     margin-bottom: 85px;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 .prodtitle {
     text-align: center;
